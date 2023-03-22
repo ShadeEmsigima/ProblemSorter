@@ -23,7 +23,7 @@ public class Main {
                 "There is intent behind the apps you use, the keyboard you type or swipe with, and the feelings you have for characters in a story." +
                 "The thing you 'submit' your answers to." +
                 "They are not sent to any database, or saved on a device for another to see." +
-                "So the only thing you are sharing answers with, is yourself. I hope you are being honest.");
+                "So the only one you are sharing answers with, is yourself. I hope you are being honest.");
 
         System.out.println("You've made the first step into sorting the problems, getting them out of your head or heart, and expose them on paper!" +
                 "Well, pixels I suppose." +
@@ -58,7 +58,7 @@ public class Main {
                 "What's the commonality between a 'throws clause' and knowing oneself?" +
                 "or that between try/catch blocks and knowing oneself?" +
                 "It all has to do with knowing you might RUN into problems." +
-                "Either one that stops you while trying to compile life-events and emotions, or run-time ones that make you crash!" +
+                "Either one that stops you while trying to compile life-events and emotions, or run-time ones that might trip you!" +
                 "Know what might cause you to throw an error, trip you up, or shut you down." +
                 "And know what to do in case such a thing might happen." +
                 "Is it much like an error, in the way of you--the program in question--not being able to fix the error yourself?" +
